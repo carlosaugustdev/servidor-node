@@ -1,0 +1,14 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "Este meu primeiro servidor usando node JS",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no tesput specified\" && exit 1"
+  },
+  "author": "Carlos Augusto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
